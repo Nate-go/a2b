@@ -9,6 +9,7 @@
 	<link href="<?php echo get_template_directory_uri() . '/assets/css/slick.scss' ?>" type="text/css" rel="stylesheet">
 	<link href="<?php echo get_template_directory_uri() . '/assets/css/slick-theme.css' ?>" type="text/css" rel="stylesheet">
 	<link href="<?php echo get_template_directory_uri() . '/assets/css/slick-theme.scss' ?>" type="text/css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Outfit&display=swap" rel="stylesheet">
 
 	<link rel="icon" href="<?php echo get_template_directory_uri(). '/assets/img/logo/favicon.png'?>" />
 	<script src="<?php echo get_template_directory_uri(). '/assets/js/jquery-v3.7.1.min.js'?>"></script>

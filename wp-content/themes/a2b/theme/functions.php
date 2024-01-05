@@ -204,6 +204,7 @@ function a2b_tinymce_add_class( $settings ) {
 	return $settings;
 }
 add_filter( 'tiny_mce_before_init', 'a2b_tinymce_add_class' );
+add_filter('lzb/block_render/allow_wrapper', '__return_false');
 
 /**
  * Custom template tags for this theme.
